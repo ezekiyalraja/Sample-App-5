@@ -47,7 +47,7 @@ class ViewController: UIViewController,Mydelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
+        print("jj")
         
         var a = Point(x: 25,y: 45)
         a.moveToX(x: 56, andY: 54)
